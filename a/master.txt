@@ -1,3 +1,22 @@
 1st str edit
 1312321312
-==========
+1st str
+#include <iostream>
+using namespace std;
+void main(){
+
+int a,b,res = 0;
+
+int menu;
+cout << "1 - sum  2 - minus: ";
+cin >> menu;
+switch(menu}
+{
+case 1: 
+	res = a + b;
+case 2:
+	res = a-b;
+}
+cout << res;
+system("pause');
+}
