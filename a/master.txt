@@ -7,6 +7,8 @@ void main(){
 
 int a,b,res = 0;
 
+cout << "Hello friend"<< endl;
+
 int menu;
 cout << "1 - sum  2 - minus: ";
 cin >> menu;
