@@ -3,6 +3,8 @@ assadsa
 111111
 int proz(int a, int b)
 {
+	int fakeres;
+	fakeres = 10000;
 	int res = a*b;
 	return res;
 }
