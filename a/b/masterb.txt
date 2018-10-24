@@ -1,3 +1,9 @@
 asdsadsad
 assadsa
 111111
+int proz(int a, int b)
+{
+	int res = a*b;
+	return res;
+}
+funcproz
